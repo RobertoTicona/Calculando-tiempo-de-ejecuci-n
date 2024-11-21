@@ -1,0 +1,1 @@
+Códigos utilizados para la lectura del archivo con datos desordenados, su ordenamiento, aplicación del Jump search, calculo del tiempo aplicado por tipo de busqueda y determinar que datos demandan menos y mas tiempo al ser ejecutados
